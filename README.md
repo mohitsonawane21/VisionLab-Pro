@@ -75,7 +75,7 @@ VisionLab Pro is a Python desktop application built with OpenCV and Tkinter for 
 Python 3.10+ is recommended.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VisionLab-Pro.git
+git clone https://github.com/mohitsonawane21/VisionLab-Pro.git
 cd VisionLab-Pro
 python -m pip install -r requirements.txt
 python program1.py
